@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 # author 		: PrabhakaranS
-# purpose   : This script unwraps Oracle wrapped plb packages for 10g and above
+# purpose   		: This script unwraps Oracle wrapped plb packages for 10g and above
 # change		: ported unwrap.py (base: teusink.net/unwrap.py) to python3
 #				      along with some improvements
 import re
